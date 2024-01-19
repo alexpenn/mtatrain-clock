@@ -1,0 +1,5 @@
+/venv/
+/.env
+/rpi-rgb-led-matrix/*
+/rgb-matrix.sh
+/__pycache__
